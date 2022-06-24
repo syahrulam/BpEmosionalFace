@@ -1,2 +1,3 @@
 # BpEmosionalFace
- Bp6-19090124-19090100
+ Syahrul Adi Mustofa 19090124
+ Eria Rahmadhani 19090100
