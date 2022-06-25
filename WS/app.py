@@ -1,3 +1,6 @@
+# Syahrul Adi Mustofa - 19090124
+# Eria Rahmadhani - 19090100
+
 from flask import Flask, flash, render_template, redirect, url_for, request, session
 from module.database import Database
 app = Flask(__name__)
